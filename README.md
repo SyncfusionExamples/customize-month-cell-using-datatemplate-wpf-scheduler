@@ -1,2 +1,1 @@
-# customize-month-cell-using-datatemplate-wpf-scheduler
-How to customize the month cell appearance using the DataTemplate in WPF Schedule (SfScheduler)
+**[View document in Syncfusion WPF Knowledge base](https://www.syncfusion.com/kb/12131/how-to-customize-the-month-cell-appearance-using-the-datatemplate-in-wpf-schedule)**
